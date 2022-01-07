@@ -1,0 +1,17 @@
+.footer{
+    margin-bottom: 0px;
+    position:sticky;
+    background-color: transparent;
+    color:transparent;
+    padding:15px;
+    font-size: large;
+    font-family: cursive;
+    border-radius: 8px;
+    width: fit-content;
+}
+
+
+.footer:hover{
+    background-color: blue;
+    color: black;
+}
